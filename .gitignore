@@ -1,0 +1,4 @@
+EntornoVirtual3/
+*.pyc
+__pycache__
+.vscode/
